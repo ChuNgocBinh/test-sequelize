@@ -1,0 +1,2 @@
+# test-sequelize
+test-sequelize
